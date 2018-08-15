@@ -1,0 +1,14 @@
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\WebApplication1Test.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\WebApplication1Test.pdb
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\obj\Debug\WebApplication1Test.csprojAssemblyReference.cache
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\obj\Debug\WebApplication1Test.csproj.CoreCompileInputs.cache
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\obj\Debug\WebApplication1Test.csproj.CopyComplete
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\obj\Debug\WebApplication1Test.dll
+C:\Users\Jecnal\source\repos\WebApplication1\WebApplication1Test\obj\Debug\WebApplication1Test.pdb
